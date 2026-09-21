@@ -1,0 +1,5 @@
+Total lines: 17
+Log levels: Counter({'INFO': 6, 'ERROR': 5, 'WARNING': 3, 'DEBUG': 2, 'CRITICAL': 1})
+Line counter: {'INFO Server started successfully': 1, 'INFO User logged in': 4, 'WARNING Disk usage above 80 percent': 2, 'ERROR Database connection failed': 2, 'DEBUG Checking database status': 1, 'INFO User logged out': 1, 'CRITICAL Server is shutting down': 1, 'ERROR Invalid password': 1, 'WARNING Memory usage high': 1, 'DEBUG Checking system status': 1, 'ERROR File not found': 2}
+Matches: ['2026-08-16 09:03:12 ERROR Database connection failed', '2026-08-16 09:03:45 ERROR Database connection failed', '2026-08-16 09:07:33 ERROR Invalid password', '2026-08-16 09:13:45 ERROR File not found', '2026-08-16 09:15:05 ERROR File not found']
+Log level percentage: ['INFO: 35.29%', 'WARNING: 17.65%', 'ERROR: 29.41%', 'DEBUG: 11.76%', 'CRITICAL: 5.88%']

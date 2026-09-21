@@ -1,0 +1,24 @@
+2026-08-16 09:00:01 INFO Server started successfully
+2026-08-16 09:01:15 INFO User logged in
+2026-08-16 09:02:30 WARNING Disk usage above 80 percent
+2026-08-16 09:03:12 ERROR Database connection failed
+2026-08-16 09:03:45 ERROR Database connection failed
+2026-08-16 09:04:10 DEBUG Checking database status
+2026-08-16 09:05:22 INFO User logged out
+THIS IS A MALFORMED LINE
+2026-08-16 09:06:01 CRITICAL Server is shutting down
+2026-08-16 09:07:33 ERROR Invalid password
+2026-08-16 25:99:99 ERROR Invalid time
+2026-08-16 09:08:44 BANANA Something happened
+2026-99-99 09:09:10 INFO Invalid date
+ERROR
+2026-08-16 09:10:15 WARNING Memory usage high
+2026-08-16
+2026-08-16 09:11:20 INFO User logged in
+2026-08-16 09:11:21 INFO User logged in
+2026-08-16 09:11:22 INFO User logged in
+2026-08-16 09:12:00 DEBUG Checking system status
+2026-08-16 09:13:45 ERROR File not found
+random garbage 123
+2026-08-16 09:14:50 WARNING Disk usage above 80 percent
+2026-08-16 09:15:05 ERROR File not found
